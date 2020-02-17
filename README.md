@@ -1,6 +1,6 @@
 # Network-Lab-S6-CSE-KTU
-[checkbox:checked]Familiarisation of Network config commands
-[checkbox:checked]Familiarisation of System calls
-[checkbox:checked]Student details using system calls
-[checkbox:checked]Parent-Child Processes
-* [X]Threads
+* Familiarisation of Network config commands
+* Familiarisation of System calls
+* Student details using system calls
+* Parent-Child Processes
+* Threads
