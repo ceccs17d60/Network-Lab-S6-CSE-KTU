@@ -3,4 +3,4 @@
 [checkbox:checked]Familiarisation of System calls
 [checkbox:checked]Student details using system calls
 [checkbox:checked]Parent-Child Processes
-[ X ]Threads
+* [X]Threads
